@@ -36,7 +36,7 @@ void DrawTriangles(float X, float Y, float H, int delta);
   * 
   * @return void
 */
-void DrawSquare (int X, int Y, int H, int N, int A);
+void DrawSquare (int X, int Y, int H, int delta, int A);
 
 int main()
 {
